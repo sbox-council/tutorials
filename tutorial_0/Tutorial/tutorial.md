@@ -22,3 +22,15 @@ from start to finish, you should be able to simply build off your previous work 
 - Install s&box on Steam (see [sbox.game](https://sbox.game/give-me-that) if you do not already have the game).
 - Join the [s&box discord](https://discord.gg/sbox) in case you have any questions about the tutorials. There are always people happy to help in the #beginners channel!
 
+### Starting the s&box editor
+
+To start, press Play on s&box in Steam. It'll open up a prompt. Select Launch s&box Editor as shown in the screenshot below.
+
+![open editor](images/open_editor.png)
+
+After a little while, the project launcher window should appear. From here, select the **Add a project from a folder** button.
+This option will open the file explorer, and allow you to select the `tutorial_0.sbproj` file located within the tutorial_0 folder.
+
+![add project](images/add_project.png)
+
+After adding the tutorial_0 project, it should appear in your Local Projects in the launcher. Click it to open the s&box editor for this project.
